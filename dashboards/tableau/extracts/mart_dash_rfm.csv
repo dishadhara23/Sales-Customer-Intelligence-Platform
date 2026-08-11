@@ -1,0 +1,54 @@
+region,segment,customers,revenue,avg_value,avg_orders,avg_recency_days
+ALL,At Risk,72,30429.24,422.63,3.14,396.42
+ALL,Big Spender (new),15537,4746798.35,305.52,1.06,96.51
+ALL,Cannot Lose Them,14712,4576158.14,311.05,1.05,399.26
+ALL,Champions,33,28238.46,855.71,4.97,85.55
+ALL,Hibernating,11461,840391.64,73.33,1.01,321.66
+ALL,Lost,11749,854324.67,72.71,1.01,478.6
+ALL,Loyal,131,59650.74,455.35,3.14,130.54
+ALL,Promising,18961,2962372.07,156.24,1.03,225.18
+ALL,Recent / One-time,22330,1637163.72,73.32,1.01,94.66
+Central-West,At Risk,6,2183.93,363.99,3.0,391.67
+Central-West,Big Spender (new),992,314755.52,317.29,1.05,96.46
+Central-West,Cannot Lose Them,938,321211.99,342.44,1.04,395.94
+Central-West,Hibernating,618,47737.32,77.24,1.02,321.39
+Central-West,Lost,604,44591.22,73.83,1.01,474.47
+Central-West,Loyal,7,2842.03,406.0,3.0,128.43
+Central-West,Promising,1211,190604.03,157.39,1.03,225.15
+Central-West,Recent / One-time,1167,89033.12,76.29,1.01,95.01
+North,At Risk,2,799.68,399.84,3.5,506.0
+North,Big Spender (new),366,127935.57,349.55,1.04,98.66
+North,Cannot Lose Them,431,155545.88,360.9,1.04,413.25
+North,Champions,1,646.99,646.99,4.0,122.0
+North,Hibernating,173,13185.91,76.22,1.01,328.14
+North,Lost,219,16962.02,77.45,1.01,486.79
+North,Loyal,2,701.41,350.71,3.0,185.0
+North,Promising,350,74631.74,213.23,1.03,224.54
+North,Recent / One-time,235,19473.44,82.87,1.0,96.6
+Northeast,At Risk,3,1707.34,569.11,3.0,323.0
+Northeast,Big Spender (new),1795,603196.53,336.04,1.03,96.02
+Northeast,Cannot Lose Them,1855,626641.63,337.81,1.04,400.58
+Northeast,Champions,7,6030.19,861.46,5.0,94.0
+Northeast,Hibernating,993,80836.96,81.41,1.01,323.54
+Northeast,Lost,1033,81574.35,78.97,1.01,479.6
+Northeast,Loyal,10,3770.59,377.06,3.0,87.5
+Northeast,Promising,1792,341398.11,190.51,1.03,225.59
+Northeast,Recent / One-time,1565,127462.49,81.45,1.01,99.38
+South,At Risk,19,10360.36,545.28,3.32,449.68
+South,Big Spender (new),2236,694613.24,310.65,1.06,97.81
+South,Cannot Lose Them,2193,664847.02,303.17,1.05,400.9
+South,Champions,6,8299.31,1383.22,4.0,38.0
+South,Hibernating,1651,120506.36,72.99,1.01,322.58
+South,Lost,1819,131633.26,72.37,1.01,479.66
+South,Loyal,8,3462.95,432.87,3.0,143.75
+South,Promising,2746,422858.09,153.99,1.03,224.27
+South,Recent / One-time,2875,221648.25,77.1,1.01,97.12
+Southeast,At Risk,42,15377.93,366.14,3.07,373.02
+Southeast,Big Spender (new),10148,3006297.49,296.25,1.06,96.24
+Southeast,Cannot Lose Them,9295,2807911.62,302.09,1.05,398.29
+Southeast,Champions,19,13261.97,698.0,5.32,95.53
+Southeast,Hibernating,8026,578125.09,72.03,1.01,321.11
+Southeast,Lost,8074,579563.82,71.78,1.01,478.32
+Southeast,Loyal,104,48873.76,469.94,3.17,132.76
+Southeast,Promising,12862,1932880.1,150.28,1.03,225.33
+Southeast,Recent / One-time,16488,1179546.42,71.54,1.01,93.73

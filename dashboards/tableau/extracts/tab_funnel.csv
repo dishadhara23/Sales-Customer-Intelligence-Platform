@@ -1,0 +1,6 @@
+stage,stage_order,orders,pct_of_purchased
+Purchased,1,99441.0,100.0
+Payment approved,2,99281.0,99.8
+Handed to carrier,3,97658.0,98.2
+Delivered to customer,4,96476.0,97.0
+Delivered on time,5,89941.0,90.4

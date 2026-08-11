@@ -1,0 +1,18 @@
+# ---- Core data engineering ----
+pandas>=2.1
+numpy>=1.26
+SQLAlchemy>=2.0
+python-dotenv>=1.0
+
+# ---- PostgreSQL driver (primary warehouse target) ----
+# Optional: the pipeline falls back to SQLite if Postgres is unavailable.
+psycopg2-binary>=2.9
+
+# ---- LLM "ask your data" layer ----
+anthropic>=0.69
+
+# ---- App + notebook ----
+streamlit>=1.40
+plotly>=5.20
+jupyter>=1.0
+nbformat>=5.10
